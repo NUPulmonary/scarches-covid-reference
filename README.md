@@ -13,5 +13,5 @@ All the analysis is here https://nbviewer.jupyter.org/github/NUPulmonary/scarche
 Dependencies for this exploration are managed by [pipenv](https://pipenv.pypa.io/en/latest/)
 
 **Acknoledgements**\
-This analysis wouldn't have been possible without help from Mohammad Lotfollahi (@M0hammadL), Alexander Misharin (@amisharin) and 
+This analysis wouldn't have been possible without help from Mohammad Lotfollahi (https://github.com/M0hammadL), Alexander Misharin (https://github.com/amisharin) and 
 all the teams behind scArches project and Grant et al., 2020 preprint.
