@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scarches = {git = "https://github.com/theislab/scarches.git",ref = "024b540ae1c0c4eca14486e66cedcb0a77f0a9d3"}
+matplotlib = "*"
+scanpy = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.6"
